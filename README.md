@@ -1,3 +1,6 @@
-# Project_Mobile
+# Project utk Pemograman Mobile
 
-Test
+Baru pertama kali mencoba menggunakan Github dan client Repository nya.
+
+
+- [Project utk Pemograman Mobile](#project-utk-pemograman-mobile)
