@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Q Novel - Project</string>
+
+    <string name="setting">setting</string>
+    <string name="Back">Back</string>
+
+    <!-- Personal Name -->
+    <string name="name">Name</string>
+    <string name="gender">Gender</string>
+    <string name="age">age</string>
+    <string name="country">Country</string>
+
+    <!-- Personal Account -->
+    <string name="profile">Profile</string>
+    <string name="account_ID">Account Id</string>
+    <string name="followed">Followed</string>
+    <string name="followers">followers</string>
+
+    <!-- Services Name -->
+    <string name="email">Email</string>
+    <string name="google">Google</string>
+
+    <!-- UI Content -->
+    <string name="comment">Comment</string>
+    <string name="title_Novel">Title</string>
+    <string name="index">Index</string>
+    <string name="page">Page</string>
+    <string name="chapter">Chapter</string>
+
+    <!-- Open-Close -->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+</resources>

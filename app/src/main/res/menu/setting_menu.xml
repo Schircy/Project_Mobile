@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="HardcodedText">
+
+    <item
+        android:id="@+id/Profile"
+        android:title="Profile"/>
+    <item
+        android:id="@+id/MyAccount"
+        android:title="My Account"/>
+
+    <item
+        android:id="@+id/Nav_setting"
+        android:title="Setting"/>
+
+    <item
+        android:id="@+id/nav_logout"
+        android:title="Logout"/>
+
+    <item
+        android:id="@+id/Menu_search"
+        android:title="Search"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/Menu_profile"
+        android:title="Profile"
+        app:showAsAction="ifRoom" />
+
+</menu>
