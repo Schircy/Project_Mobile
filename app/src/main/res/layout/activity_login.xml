@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:ignore="HardcodedText">
+    tools:ignore="HardcodedText"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
     <TextView
         android:id="@+id/login"
@@ -24,7 +25,6 @@
         android:id="@+id/btn_Sign"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-
         android:layout_marginTop="16dp"
         android:background="@drawable/btn_shape"
         android:backgroundTint="@color/green_dark"

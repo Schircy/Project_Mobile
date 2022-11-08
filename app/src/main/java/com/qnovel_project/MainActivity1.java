@@ -8,13 +8,13 @@ import androidx.appcompat.app.ActionBarDrawerToggle;
 import android.os.Bundle;
 import android.view.MenuItem;
 //import android.view.Menu;
-//import android.widget.Toolbar;
+//import android.widget.MainToolbar;
 
 public class MainActivity extends AppCompatActivity {
 
     public DrawerLayout drawerLayout;
     public ActionBarDrawerToggle actionBarDrawerToggle;
-//    private Toolbar mToolbar;
+//    private MainToolbar mToolbar;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
