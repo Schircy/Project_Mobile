@@ -66,6 +66,10 @@ animator mtrl_fab_hide_motion_spec
 animator mtrl_fab_show_motion_spec
 animator mtrl_fab_transformation_sheet_collapse_spec
 animator mtrl_fab_transformation_sheet_expand_spec
+array com_google_android_gms_fonts_certs
+array com_google_android_gms_fonts_certs_dev
+array com_google_android_gms_fonts_certs_prod
+array preloaded_fonts
 attr SharedValue
 attr SharedValueId
 attr actionBarDivider
@@ -2567,6 +2571,8 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable google
+drawable ic_back
+drawable ic_baseline_home_24
 drawable ic_baseline_menu_24
 drawable ic_clock_black_24dp
 drawable ic_edit
@@ -2662,17 +2668,19 @@ drawable qnovel_icon_img
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+font flavors
 id ALT
 id BOTTOM_END
 id BOTTOM_START
 id CTRL
 id FUNCTION
 id META
+id Menu_Home
+id Menu_edit
 id Menu_profile
 id Menu_search
 id MyAccount
 id NO_DEBUG
-id Nav_setting
 id SHIFT
 id SHOW_ALL
 id SHOW_PATH
@@ -2807,6 +2815,7 @@ id currentState
 id custom
 id customPanel
 id cut
+id dateOfBirth
 id date_picker_actions
 id decelerate
 id decelerateAndComplete
@@ -2873,8 +2882,11 @@ id floating
 id forever
 id forgot_pass
 id fragment_container_view_tag
+id frameLayout
+id frameLayout2
 id frost
 id fullscreen_header
+id gender
 id ghost_view
 id ghost_view_holder
 id gone
@@ -2893,13 +2905,16 @@ id honorRequest
 id horizontal_only
 id icon
 id icon_group
+id idAccount
 id ifRoom
 id ignore
 id ignoreRequest
 id image
 id imageView
+id img
 id immediateStop
 id included
+id included_activity_main
 id indeterminate
 id info
 id invisible
@@ -2922,7 +2937,9 @@ id list_LatestSeries
 id list_LatestUpdates
 id list_Popular
 id list_item
+id location
 id login
+id logout
 id main_toolbar
 id marquee
 id masked
@@ -2981,6 +2998,7 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
+id name
 id navigation_bar_item_active_indicator_view
 id navigation_bar_item_icon_container
 id navigation_bar_item_icon_view
@@ -2988,6 +3006,7 @@ id navigation_bar_item_labels_group
 id navigation_bar_item_large_label_view
 id navigation_bar_item_small_label_view
 id navigation_header_container
+id nestedScrollView
 id never
 id neverCompleteToEnd
 id neverCompleteToStart
@@ -2999,6 +3018,9 @@ id north
 id notification_background
 id notification_main_column
 id notification_main_column_container
+id novel1
+id novel2
+id novel3
 id off
 id on
 id onInterceptTouchReturnSwipe
@@ -3056,6 +3078,7 @@ id search_voice_btn
 id select_dialog_listview
 id selected
 id selection_type
+id setting
 id sharedValueSet
 id sharedValueUnset
 id shortcut
@@ -3090,6 +3113,8 @@ id startToEnd
 id startVertical
 id staticLayout
 id staticPostLayout
+id statistic
+id statisticEdit
 id stop
 id stretch
 id submenuarrow
@@ -3116,6 +3141,8 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textView
+id textView2
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3130,7 +3157,6 @@ id title
 id titleDividerNoCustom
 id title_template
 id toggle
-id toolbar
 id top
 id topPanel
 id touch_outside
@@ -3147,6 +3173,7 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id username
 id vertical_only
 id view
 id view2
@@ -3293,6 +3320,7 @@ layout abc_tooltip
 layout activity_drawer
 layout activity_login
 layout activity_main
+layout activity_novel
 layout activity_profile
 layout activity_register
 layout activity_toolbar
@@ -3372,6 +3400,7 @@ layout select_dialog_singlechoice_material
 layout setting_main
 layout support_simple_spinner_dropdown_item
 menu menu_drawer
+menu menu_profile
 menu setting_menu
 mipmap ic_launcher
 mipmap ic_launcher_round
@@ -3407,7 +3436,6 @@ string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string account_ID
-string age
 string androidx_startup
 string app_name
 string appbar_scrolling_view_behavior
@@ -3423,7 +3451,7 @@ string character_counter_overflowed_content_description
 string character_counter_pattern
 string clear_text_end_icon_content_description
 string comment
-string country
+string dateOfBirth
 string email
 string error_a11y_label
 string error_icon_content_description
@@ -3438,6 +3466,7 @@ string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string index
 string item_view_role_description
+string location
 string m3_sys_motion_easing_emphasized
 string m3_sys_motion_easing_emphasized_accelerate
 string m3_sys_motion_easing_emphasized_decelerate
@@ -3534,12 +3563,13 @@ string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
-string profile
+string penName
 string search
 string search_menu_title
 string setting
 string status_bar_notification_info_overflow
 string title_Novel
+string username
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

@@ -9,10 +9,6 @@
     tools:ignore="HardcodedText"
     android:background="@color/white">
 
-    <include
-        layout="@layout/activity_drawer">
-    </include>
-
     <TextClock
         android:id="@+id/date_picker_actions"
         android:layout_width="wrap_content"
@@ -56,8 +52,10 @@
         android:text="Popular Series"
         android:textAllCaps="false"
         android:textSize="12sp"
+        android:textColor="@color/black"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/view" />
+        app:layout_constraintTop_toBottomOf="@+id/view"
+        />
 
     <Button
         android:id="@+id/btn_LatestSeries"
@@ -126,25 +124,127 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/layoutPopular">
 
+        <LinearLayout
+            android:id="@+id/list_Popular"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="visible">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/gray"
+                android:paddingHorizontal="40dp"
+                android:paddingVertical="60dp"
+                android:layout_margin="10dp"/>
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/black"
+                android:paddingHorizontal="40dp"
+                android:paddingVertical="60dp"
+                android:layout_margin="10dp">
+            </ImageView>
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/blue"
+                android:paddingHorizontal="40dp"
+                android:paddingVertical="60dp"
+                android:layout_margin="10dp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="vertical"
+            android:id="@+id/list_LatestSeries"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/blue"
+                android:paddingHorizontal="40dp"
+                android:paddingVertical="60dp"
+                android:layout_margin="10dp">
+            </ImageView>
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/gray"
+                android:paddingHorizontal="40dp"
+                android:paddingVertical="60dp"
+                android:layout_margin="10dp">
+            </ImageView>
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/black"
+                android:paddingHorizontal="40dp"
+                android:paddingVertical="60dp"
+                android:layout_margin="10dp">
+            </ImageView>
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="vertical"
+            android:id="@+id/list_LatestUpdates"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone">
+            <ImageView
+                android:id="@+id/novel1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/gray"
+                android:paddingHorizontal="40dp"
+                android:paddingVertical="60dp"
+                android:layout_margin="10dp">
+            </ImageView>
+            <ImageView
+                android:id="@+id/novel2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/green_dark"
+                android:paddingHorizontal="40dp"
+                android:paddingVertical="60dp"
+                android:layout_margin="10dp">
+            </ImageView>
+            <ImageView
+                android:id="@+id/novel3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/black"
+                android:paddingHorizontal="40dp"
+                android:paddingVertical="60dp"
+                android:layout_margin="10dp">
+            </ImageView>
+        </LinearLayout>
+        <!--
         <ListView
             android:visibility="visible"
             android:id="@+id/list_Popular"
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
-        </ListView>
+            android:layout_height="match_parent"/>
+
         <ListView
             android:visibility="gone"
             android:id="@+id/list_LatestSeries"
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
-        </ListView>
+            android:layout_height="match_parent"/>
         <ListView
             android:visibility="gone"
             android:id="@+id/list_LatestUpdates"
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
-        </ListView>
-
+            android:layout_height="match_parent"/>
+-->
     </FrameLayout>
 
+    <androidx.core.widget.NestedScrollView
+        android:visibility="invisible"
+        android:id="@+id/nestedScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+    </androidx.core.widget.NestedScrollView>
 </androidx.constraintlayout.widget.ConstraintLayout>

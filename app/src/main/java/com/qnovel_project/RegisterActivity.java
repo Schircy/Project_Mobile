@@ -21,6 +21,6 @@ public class RegisterActivity extends AppCompatActivity {
         //Ke Login
         btn.setOnClickListener(view -> startActivity(new Intent(RegisterActivity.this,LoginActivity.class)));
         //Ke MainActivity
-        btn_sign.setOnClickListener(view -> startActivity(new Intent(RegisterActivity.this,MainActivity.class)));
+        btn_sign.setOnClickListener(view -> startActivity(new Intent(RegisterActivity.this,DrawerActivity.class)));
     }
 }

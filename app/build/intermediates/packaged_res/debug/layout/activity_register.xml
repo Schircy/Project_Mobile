@@ -116,6 +116,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
         android:background="@drawable/btn_shape"
+        android:backgroundTint="@color/green_dark"
+        android:shadowColor="@color/green"
         android:text="Sign Up"
         android:textAllCaps="false"
         app:layout_constraintEnd_toEndOf="@+id/edit_reg_confPass"
@@ -137,7 +139,16 @@
             android:layout_height="wrap_content"
             android:text="Have an Account?"
             android:textAlignment="center"
-            android:textColor="@color/black"
             android:textStyle="bold"/>
     </LinearLayout>
+
+    <androidx.core.widget.NestedScrollView
+        android:visibility="invisible"
+        android:id="@+id/nestedScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+    </androidx.core.widget.NestedScrollView>
+
 </androidx.constraintlayout.widget.ConstraintLayout>

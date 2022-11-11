@@ -6,7 +6,10 @@
         android:title="My Account"/>
 
     <item
-        android:id="@+id/Nav_setting"
+        android:id="@+id/setting"
         android:title="Setting"/>
 
+    <item
+        android:id="@+id/logout"
+        android:title="Log Out"/>
 </menu>

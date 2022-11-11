@@ -10,7 +10,9 @@
         app:showAsAction="ifRoom" />
     <item
         android:id="@+id/Menu_profile"
-        android:title="@string/profile"
+        android:title="Profile"
         android:icon="@drawable/ic_sharp_person_24"
         app:showAsAction="ifRoom" />
+
+
 </menu>

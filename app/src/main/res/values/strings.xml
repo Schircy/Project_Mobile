@@ -7,11 +7,12 @@
     <!-- Personal Name -->
     <string name="name">Name</string>
     <string name="gender">Gender</string>
-    <string name="age">age</string>
-    <string name="country">Country</string>
+    <string name="dateOfBirth">Date of Birth</string>
+    <string name="penName">Pen Name</string>
+    <string name="location">Location</string>
 
     <!-- Personal Account -->
-    <string name="profile">Profile</string>
+    <string name="username">Username</string>
     <string name="account_ID">Account Id</string>
     <string name="followed">Followed</string>
     <string name="followers">followers</string>

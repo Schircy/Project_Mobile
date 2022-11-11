@@ -7,32 +7,16 @@
     tools:context=".DrawerActivity"
     android:id="@+id/drawer"
     tools:ignore="HardcodedText"
-    android:background="@color/white"
-    android:theme="@style/Theme.AppCompat.NoActionBar">
+    android:background="@color/white">
 
-<LinearLayout
-    android:layout_width="match_parent"
-    android:layout_height="match_parent">
-
-    <com.google.android.material.appbar.AppBarLayout
+    <include
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="@color/gray"
-        >
-
-        <androidx.appcompat.widget.Toolbar
-            android:id="@+id/toolbar"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:minHeight="?attr/actionBarSize"
-            app:title="@string/app_name"
-            app:menu="@menu/setting_menu"
-            android:theme="@style/Theme.QNovel.PopupOverlay"/>
-    </com.google.android.material.appbar.AppBarLayout>
-</LinearLayout>
+        android:layout_height="match_parent"
+        layout="@layout/activity_main"
+        android:id="@+id/included_activity_main">
+    </include>
 
     <com.google.android.material.navigation.NavigationView
-
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:layout_gravity="start"

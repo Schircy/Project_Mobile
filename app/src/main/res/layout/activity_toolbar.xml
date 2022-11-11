@@ -5,7 +5,6 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:background="@color/white"
-    android:theme="@style/AppTheme"
     tools:context=".MainToolbar">
 
     <com.google.android.material.appbar.AppBarLayout
@@ -19,7 +18,8 @@
             android:minHeight="?attr/actionBarSize"
             android:background="@color/gray"
             android:theme="@style/Theme.QNovel.PopupOverlay"
-            app:logo="@drawable/ic_baseline_menu_24">
+            app:logo="@drawable/ic_baseline_menu_24"
+            app:menu="@menu/setting_menu">
 
             <TextView
                 android:layout_width="wrap_content"
