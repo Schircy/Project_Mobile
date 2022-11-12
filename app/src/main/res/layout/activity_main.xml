@@ -49,10 +49,11 @@
         android:layout_marginStart="16dp"
         android:layout_marginTop="10dp"
         android:background="@drawable/btn_shape"
+        android:backgroundTint="@color/green_dark"
+        android:shadowColor="@color/green"
         android:text="Popular Series"
         android:textAllCaps="false"
         android:textSize="12sp"
-        android:textColor="@color/black"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/view"
         />
@@ -62,6 +63,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@drawable/btn_shape"
+        android:backgroundTint="@color/green_dark"
+        android:shadowColor="@color/green"
         android:text="Latest Series"
         android:textAllCaps="false"
         android:textSize="12sp"
@@ -78,6 +81,8 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="16dp"
         android:background="@drawable/btn_shape"
+        android:backgroundTint="@color/green_dark"
+        android:shadowColor="@color/green"
         android:text="Latest Updates"
         android:textAllCaps="false"
         android:textSize="12sp"
@@ -85,142 +90,90 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="@+id/btn_PopularSeries" />
 
-    <LinearLayout
-        android:id="@+id/layoutPopular"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="15dp"
-        android:layout_marginHorizontal="10dp"
-        android:orientation="horizontal"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.578"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/view2">
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:padding="5dp"
-            android:text="Popular Series"
-            android:textAlignment="center"
-            android:textSize="16sp" />
-
-        <View
-            android:layout_width="match_parent"
-            android:layout_height="2dp"
-            android:layout_gravity="center"
-            android:layout_margin="5dp"
-            android:background="@color/gray" />
-
-    </LinearLayout>
 
     <FrameLayout
         android:layout_width="match_parent"
-        android:layout_height="500dp"
+        android:layout_height="548dp"
         android:layout_margin="20dp"
         android:orientation="horizontal"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/layoutPopular">
+        app:layout_constraintTop_toBottomOf="@+id/view2">
 
         <LinearLayout
             android:id="@+id/list_Popular"
-            android:orientation="vertical"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:visibility="visible">
-            <ImageView
-                android:id="@+id/novel1"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:background="@color/gray"
-                android:paddingHorizontal="40dp"
-                android:paddingVertical="60dp"
-                android:layout_margin="10dp"/>
-            <ImageView
-                android:id="@+id/novel2"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:background="@color/black"
-                android:paddingHorizontal="40dp"
-                android:paddingVertical="60dp"
-                android:layout_margin="10dp">
-            </ImageView>
-            <ImageView
-                android:id="@+id/novel3"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:background="@color/blue"
-                android:paddingHorizontal="40dp"
-                android:paddingVertical="60dp"
-                android:layout_margin="10dp"/>
-        </LinearLayout>
-        <LinearLayout
             android:orientation="vertical"
+            android:visibility="visible">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    android:text="Popular Series"
+                    android:textAlignment="center"
+                    android:textSize="16sp" />
+                <include layout="@layout/line"/>
+            </LinearLayout>
+
+            <include layout="@layout/card_popular_series"/>
+
+        </LinearLayout>
+
+        <LinearLayout
             android:id="@+id/list_LatestSeries"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
+            android:orientation="vertical"
             android:visibility="gone">
 
-            <ImageView
-                android:layout_width="wrap_content"
+            <LinearLayout
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@color/blue"
-                android:paddingHorizontal="40dp"
-                android:paddingVertical="60dp"
-                android:layout_margin="10dp">
-            </ImageView>
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:background="@color/gray"
-                android:paddingHorizontal="40dp"
-                android:paddingVertical="60dp"
-                android:layout_margin="10dp">
-            </ImageView>
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:background="@color/black"
-                android:paddingHorizontal="40dp"
-                android:paddingVertical="60dp"
-                android:layout_margin="10dp">
-            </ImageView>
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    android:text="Latest Series"
+                    android:textAlignment="center"
+                    android:textSize="16sp" />
+                <include layout="@layout/line"/>
+            </LinearLayout>
+            <include layout="@layout/card_latest_series"/>
         </LinearLayout>
+
         <LinearLayout
-            android:orientation="vertical"
             android:id="@+id/list_LatestUpdates"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
+            android:orientation="vertical"
             android:visibility="gone">
-            <ImageView
 
-                android:layout_width="wrap_content"
+            <LinearLayout
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@color/gray"
-                android:paddingHorizontal="40dp"
-                android:paddingVertical="60dp"
-                android:layout_margin="10dp">
-            </ImageView>
-            <ImageView
+                android:orientation="horizontal">
 
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:background="@color/green_dark"
-                android:paddingHorizontal="40dp"
-                android:paddingVertical="60dp"
-                android:layout_margin="10dp">
-            </ImageView>
-            <ImageView
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    android:text="Latest Updates"
+                    android:textAlignment="center"
+                    android:textSize="16sp" />
+                <include layout="@layout/line"/>
+            </LinearLayout>
+            <include layout="@layout/card_latest_updates"/>
 
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:background="@color/black"
-                android:paddingHorizontal="40dp"
-                android:paddingVertical="60dp"
-                android:layout_margin="10dp">
-            </ImageView>
         </LinearLayout>
         <!--
         <ListView
@@ -242,12 +195,4 @@
 -->
     </FrameLayout>
 
-    <androidx.core.widget.NestedScrollView
-        android:visibility="invisible"
-        android:id="@+id/nestedScrollView"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        app:layout_behavior="@string/appbar_scrolling_view_behavior">
-
-    </androidx.core.widget.NestedScrollView>
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -16,14 +16,16 @@ import android.view.Menu;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+import android.widget.TextView;
 import android.widget.Toast;
 
 public class DrawerActivity extends AppCompatActivity {
 
     // <include> Initial
+
     LinearLayout popularSeries, latestSeries, latestUpdates;
+    ImageView imgNovel1, imgNovel6, imgNovel11;
     Button btn_popular, btn_latestSeries, btn_latestUpdates;
-    ImageView btn_Novel1, btn_Novel2, btn_Novel3;
 
     // Local Class
     public DrawerLayout drawerLayout;
@@ -54,24 +56,19 @@ public class DrawerActivity extends AppCompatActivity {
         btn_latestSeries.setOnClickListener(new DrawerActivity.buttonCase());
         btn_latestUpdates.setOnClickListener(new DrawerActivity.buttonCase());
 
-        // Image View
+        // Change Layout Find ID
         popularSeries = findViewById(R.id.list_Popular);
         latestSeries = findViewById(R.id.list_LatestSeries);
         latestUpdates = findViewById(R.id.list_LatestUpdates);
 
         // ImageView find ID
-        btn_Novel1 = findViewById(R.id.novel1);
-        btn_Novel2 = findViewById(R.id.novel2);
-        btn_Novel3 = findViewById(R.id.novel3);
+        imgNovel1 = findViewById(R.id.imgNovel1);
+        imgNovel6 = findViewById(R.id.imgNovel6);
+        imgNovel11 = findViewById(R.id.imgNovel11);
 
-        // ImageView onCLickListener
-        btn_Novel1.setOnClickListener(new DrawerActivity.buttonCase());
-        btn_Novel2.setOnClickListener(new DrawerActivity.buttonCase());
-        btn_Novel3.setOnClickListener(new DrawerActivity.buttonCase());
-
-        btn_Novel1.setOnClickListener(view -> startActivity(new Intent(DrawerActivity.this, NovelActivity.class)));
-        btn_Novel2.setOnClickListener(view -> startActivity(new Intent(DrawerActivity.this, NovelActivity.class)));
-        btn_Novel3.setOnClickListener(view -> startActivity(new Intent(DrawerActivity.this, NovelActivity.class)));
+        imgNovel1.setOnClickListener(view -> startActivity(new Intent(DrawerActivity.this, NovelActivity.class)));
+        imgNovel6.setOnClickListener(view -> startActivity(new Intent(DrawerActivity.this, NovelActivity.class)));
+        imgNovel11.setOnClickListener(view -> startActivity(new Intent(DrawerActivity.this, NovelActivity.class)));
     }
 
     // Case Menu

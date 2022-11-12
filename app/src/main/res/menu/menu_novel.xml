@@ -6,14 +6,15 @@
         android:id="@+id/menu_search"
         android:title="@string/search"
         android:icon="@drawable/ic_search_24"
-        app:showAsAction="always"/>
+        app:showAsAction="always"
+        app:actionViewClass="android.widget.SearchView" />
     <item
         android:id="@+id/menu_profile"
         android:title="profile"
         android:icon="@drawable/ic_sharp_person_24"
         app:showAsAction="ifRoom"/>
     <item
-        android:id="@+id/Menu_Home"
+        android:id="@+id/menu_home"
         android:title="Home"
         android:icon="@drawable/ic_baseline_home_24"
         app:showAsAction="always" />
