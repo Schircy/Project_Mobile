@@ -12,6 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:scrollbars="vertical">
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -222,8 +223,12 @@
                 android:textSize="18sp" />
         </LinearLayout>
     </LinearLayout>
+
     <include layout="@layout/line"/>
     <include layout="@layout/activity_novel2"/>
+
     </LinearLayout>
+
     </ScrollView>
+
 </FrameLayout>

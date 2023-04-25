@@ -1,274 +1,262 @@
 [
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\drawable_ic_baseline_home_24.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\drawable\\ic_baseline_home_24.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.qnovel_project.app-main-31:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\drawable_input_bg.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\drawable\\input_bg.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/mipmap-hdpi_ic_qnovel_round.png.flat",
+        "source": "com.qnovel_project.app-debug-30:/mipmap-hdpi/ic_qnovel_round.png"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\font_flavors.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\font\\flavors.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/layout_activity_toolbar.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/layout/activity_toolbar.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\mipmap-xhdpi_ic_qnovel_round.png.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-debug-30:\\mipmap-xhdpi\\ic_qnovel_round.png"
+        "merged": "com.qnovel_project.app-merged_res-29:/drawable_qnovel_icon.png.flat",
+        "source": "com.qnovel_project.app-main-31:/drawable/qnovel_icon.png"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\mipmap-xxhdpi_ic_qnovel.png.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-debug-30:\\mipmap-xxhdpi\\ic_qnovel.png"
+        "merged": "com.qnovel_project.app-merged_res-29:/menu_menu_profile.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/menu/menu_profile.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\drawable_qnovel_icon.png.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\drawable\\qnovel_icon.png"
+        "merged": "com.qnovel_project.app-merged_res-29:/layout_card_popular_series.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/layout/card_popular_series.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\layout_activity_novel2.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\layout\\activity_novel2.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.qnovel_project.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\layout_card_novel.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\layout\\card_novel.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.qnovel_project.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\drawable_menu.png.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\drawable\\menu.png"
+        "merged": "com.qnovel_project.app-merged_res-29:/drawable_ic_baseline_menu_24.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/drawable/ic_baseline_menu_24.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\drawable_ic_lock_24.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\drawable\\ic_lock_24.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.qnovel_project.app-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\layout\\activity_login.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/drawable_ic_search_24.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/drawable/ic_search_24.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "com.qnovel_project.app-merged_res-29:/menu_setting_menu.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/menu/setting_menu.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\menu_menu_novel.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\menu\\menu_novel.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\drawable_ic_search_24.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\drawable\\ic_search_24.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/mipmap-xhdpi_ic_qnovel.png.flat",
+        "source": "com.qnovel_project.app-debug-30:/mipmap-xhdpi/ic_qnovel.png"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\layout_card_latest_series.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\layout\\card_latest_series.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/drawable_btn_shape.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/drawable/btn_shape.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "com.qnovel_project.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.qnovel_project.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\mipmap-mdpi_ic_qnovel_round.png.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-debug-30:\\mipmap-mdpi\\ic_qnovel_round.png"
+        "merged": "com.qnovel_project.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\layout_activity_profile.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\layout\\activity_profile.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\drawable_ic_edit.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\drawable\\ic_edit.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/drawable_ic_sharp_person_24.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/drawable/ic_sharp_person_24.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\layout_card_popular_series.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\layout\\card_popular_series.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/drawable_ic_qnovel_fg.xml.flat",
+        "source": "com.qnovel_project.app-debug-30:/drawable/ic_qnovel_fg.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\mipmap-mdpi_ic_qnovel.png.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-debug-30:\\mipmap-mdpi\\ic_qnovel.png"
+        "merged": "com.qnovel_project.app-merged_res-29:/mipmap-xxhdpi_ic_qnovel_round.png.flat",
+        "source": "com.qnovel_project.app-debug-30:/mipmap-xxhdpi/ic_qnovel_round.png"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.qnovel_project.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\layout_activity_toolbar.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\layout\\activity_toolbar.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/layout_activity_login.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/layout/activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\drawable_ic_sharp_person_24.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\drawable\\ic_sharp_person_24.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/mipmap-hdpi_ic_qnovel.png.flat",
+        "source": "com.qnovel_project.app-debug-30:/mipmap-hdpi/ic_qnovel.png"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\layout_setting_main.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\layout\\setting_main.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/mipmap-anydpi-v26_ic_qnovel_round.xml.flat",
+        "source": "com.qnovel_project.app-debug-30:/mipmap-anydpi-v26/ic_qnovel_round.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\xml\\backup_rules.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/mipmap-xhdpi_ic_qnovel_round.png.flat",
+        "source": "com.qnovel_project.app-debug-30:/mipmap-xhdpi/ic_qnovel_round.png"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\layout_activity_drawer.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\layout\\activity_drawer.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/drawable_ic_lock_24.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/drawable/ic_lock_24.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\mipmap-hdpi_ic_qnovel.png.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-debug-30:\\mipmap-hdpi\\ic_qnovel.png"
+        "merged": "com.qnovel_project.app-merged_res-29:/drawable_square_shape.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/drawable/square_shape.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/drawable_image_view.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/drawable/image_view.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\mipmap-xxhdpi_ic_qnovel_round.png.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-debug-30:\\mipmap-xxhdpi\\ic_qnovel_round.png"
+        "merged": "com.qnovel_project.app-merged_res-29:/layout_activity_novel.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/layout/activity_novel.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\mipmap-anydpi-v26_ic_qnovel_round.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-debug-30:\\mipmap-anydpi-v26\\ic_qnovel_round.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/drawable_ic_edit.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/drawable/ic_edit.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/mipmap-xxxhdpi_ic_qnovel_round.png.flat",
+        "source": "com.qnovel_project.app-debug-30:/mipmap-xxxhdpi/ic_qnovel_round.png"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.qnovel_project.app-merged_res-29:/drawable_input_bg.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/drawable/input_bg.xml"
+    },
+    {
+        "merged": "com.qnovel_project.app-merged_res-29:/layout_activity_profile.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.qnovel_project.app-merged_res-29:/mipmap-mdpi_ic_qnovel_round.png.flat",
+        "source": "com.qnovel_project.app-debug-30:/mipmap-mdpi/ic_qnovel_round.png"
     },
     {
         "merged": "com.qnovel_project.app-merged_res-29:/layout_activity_main.xml.flat",
         "source": "com.qnovel_project.app-main-31:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\drawable_ic_qnovel_fg.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-debug-30:\\drawable\\ic_qnovel_fg.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/layout_card_latest_series.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/layout/card_latest_series.xml"
     },
     {
         "merged": "com.qnovel_project.app-merged_res-29:/layout_activity_register.xml.flat",
         "source": "com.qnovel_project.app-main-31:/layout/activity_register.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\layout_activity_novel.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\layout\\activity_novel.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/mipmap-mdpi_ic_qnovel.png.flat",
+        "source": "com.qnovel_project.app-debug-30:/mipmap-mdpi/ic_qnovel.png"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\mipmap-xhdpi_ic_qnovel.png.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-debug-30:\\mipmap-xhdpi\\ic_qnovel.png"
+        "merged": "com.qnovel_project.app-merged_res-29:/mipmap-anydpi-v26_ic_qnovel.xml.flat",
+        "source": "com.qnovel_project.app-debug-30:/mipmap-anydpi-v26/ic_qnovel.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "com.qnovel_project.app-merged_res-29:/drawable_ic_back.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/drawable/ic_back.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\layout_activity_register.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\layout\\activity_register.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/layout_activity_drawer.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/layout/activity_drawer.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\menu_setting_menu.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\menu\\setting_menu.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.qnovel_project.app-main-31:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\drawable_ic_arrow_up.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\drawable\\ic_arrow_up.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.qnovel_project.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\drawable_ic_baseline_menu_24.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\drawable\\ic_baseline_menu_24.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/menu_menu_novel.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/menu/menu_novel.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\mipmap-hdpi_ic_qnovel_round.png.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-debug-30:\\mipmap-hdpi\\ic_qnovel_round.png"
+        "merged": "com.qnovel_project.app-merged_res-29:/drawable_ic_arrow_up.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/drawable/ic_arrow_up.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\drawable_ic_qnovel.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\drawable\\ic_qnovel.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/layout_activity_novel2.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/layout/activity_novel2.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\drawable_square_shape.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\drawable\\square_shape.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/layout_line.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/layout/line.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\menu_menu_drawer.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\menu\\menu_drawer.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\menu_menu_profile.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\menu\\menu_profile.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/menu_menu_drawer.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/menu/menu_drawer.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\mipmap-xxxhdpi_ic_qnovel.png.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-debug-30:\\mipmap-xxxhdpi\\ic_qnovel.png"
+        "merged": "com.qnovel_project.app-merged_res-29:/layout_setting_main.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/layout/setting_main.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "com.qnovel_project.app-merged_res-29:/mipmap-xxhdpi_ic_qnovel.png.flat",
+        "source": "com.qnovel_project.app-debug-30:/mipmap-xxhdpi/ic_qnovel.png"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "com.qnovel_project.app-merged_res-29:/drawable_qnovel_icon_img.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/drawable/qnovel_icon_img.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\layout_card_latest_updates.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\layout\\card_latest_updates.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.qnovel_project.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\layout_line.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\layout\\line.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.qnovel_project.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/mipmap-xxxhdpi_ic_qnovel.png.flat",
+        "source": "com.qnovel_project.app-debug-30:/mipmap-xxxhdpi/ic_qnovel.png"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\layout\\activity_main.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/drawable_google.jpg.flat",
+        "source": "com.qnovel_project.app-main-31:/drawable/google.jpg"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "com.qnovel_project.app-merged_res-29:/drawable_ic_baseline_home_24.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/drawable/ic_baseline_home_24.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\drawable_google.jpg.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\drawable\\google.jpg"
+        "merged": "com.qnovel_project.app-merged_res-29:/font_flavors.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/font/flavors.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\drawable_qnovel_icon_img.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\drawable\\qnovel_icon_img.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.qnovel_project.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\xml\\data_extraction_rules.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/drawable_ic_email.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/drawable/ic_email.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\drawable_ic_back.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\drawable\\ic_back.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/drawable_menu.png.flat",
+        "source": "com.qnovel_project.app-main-31:/drawable/menu.png"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "com.qnovel_project.app-merged_res-29:/drawable_ic_qnovel.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/drawable/ic_qnovel.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "com.qnovel_project.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\mipmap-xxxhdpi_ic_qnovel_round.png.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-debug-30:\\mipmap-xxxhdpi\\ic_qnovel_round.png"
-    },
-    {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\drawable_image_view.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\drawable\\image_view.xml"
-    },
-    {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\drawable_btn_shape.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\drawable\\btn_shape.xml"
-    },
-    {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\mipmap-anydpi-v26_ic_qnovel.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-debug-30:\\mipmap-anydpi-v26\\ic_qnovel.xml"
-    },
-    {
-        "merged": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-merged_res-29:\\drawable_ic_email.xml.flat",
-        "source": "C:\\Users\\golle\\.gradle\\daemon\\7.4\\com.qnovel_project.app-main-31:\\drawable\\ic_email.xml"
+        "merged": "com.qnovel_project.app-merged_res-29:/layout_card_latest_updates.xml.flat",
+        "source": "com.qnovel_project.app-main-31:/layout/card_latest_updates.xml"
     }
 ]
